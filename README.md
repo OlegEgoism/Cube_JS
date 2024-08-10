@@ -1,5 +1,7 @@
 ![image](https://github.com/user-attachments/assets/bc785ddf-c3d5-40b2-9cd8-7ba6c7909b89)
 
+![image](https://github.com/user-attachments/assets/5c4a0b94-5e70-44a4-9820-2e9720689f12)
+
 
 Инструкция по извлечению данных из CubeJS и их сохранению в форматах Excel (XLSX) или CSV
 Этот код предназначен для извлечения данных из CubeJS и сохранения результатов запроса в форматах Excel (XLSX) или CSV.
